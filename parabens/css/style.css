@@ -244,3 +244,10 @@ body {
   .name {
     margin-left:150px;
   }
+
+  .controls{
+    padding: 20px;
+    margin: 60px;
+    background-color: #9b5de5;
+    border-radius: 40px;
+  }
